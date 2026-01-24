@@ -1,0 +1,25 @@
+
+
+
+.sec8{
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.sec8 button{
+    width: 202px;
+height: 60px;
+background-color: #E9672B;
+border: none;
+border-radius: 88px;
+
+}
+.sec8 h2{
+font-weight: 400;
+font-size: 24px;
+line-height: 32px;
+letter-spacing: 0%;
+text-align: center;
+margin-bottom: 20px;
+margin-top: 10px;
+}

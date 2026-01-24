@@ -1,0 +1,69 @@
+
+
+.sec6{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.salom1{
+ width: 396px;
+height: 254px;
+ border:  2px solid #E9672B;
+box-shadow: 8px -8px 0px 0px #CBC6F4;
+
+
+
+}
+
+.salom2{
+ width: 396px;
+height: 254px;
+border: 2px solid #225DCA;
+box-shadow: 8px -8px 0px 0px #E7CB43;
+
+
+}
+
+.salom3{
+ width: 396px;
+height: 254px;
+ border:  2px solid #242947;
+box-shadow: 8px -8px 0px 0px #A2D4C5;
+
+}
+.sec6 h3{
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+letter-spacing: 0%;
+margin-left: 20px;
+margin-bottom: 40px;
+}
+.sec6 img{
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.sec6 p{
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0%;
+margin-left: 20px;
+}
+.salom1 p{
+    margin-top: 70px;
+}
+
+.sec66 h1{
+
+
+
+font-weight: 400;
+font-size: 48px;
+line-height: 54px;
+letter-spacing: 0%;
+text-align: center;
+
+}
